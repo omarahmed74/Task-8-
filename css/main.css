@@ -1,0 +1,37 @@
+body{
+    background-color: #000040;
+    color: white;
+}
+
+.card{
+    background-color:#404040;
+    color: white;
+    font-weight: 900;
+    margin: 20px 0px;
+}
+
+.none{
+    display: none;
+}
+
+i {
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    float: right;
+    color: darkred;
+}
+
+.modal{
+    color: black;
+    
+}
+
+.block{
+    display: block;
+}
+
+.checked{
+    text-decoration :line-through;
+    background-color: black !important;
+}
